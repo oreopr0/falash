@@ -59,7 +59,7 @@ class Userbot(Client):
                 await self.one.join_chat("Zelzal_Music")
                 await self.one.join_chat("AAAl1l")
                 await self.one.join_chat("ZThon")
-                await self.one.join_chat("Zed_Thon")
+                await self.one.join_chat("elpop6788")
             except:
                 pass
             assistants.append(1)
